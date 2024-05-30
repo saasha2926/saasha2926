@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arsha Amal
 - Currently persuading my Btech Degree on Computer Science And Engineering.
-   Areas of Interest : Science, Literature , Music, Business , Tehnology
+- Areas of Interest : Science, Literature , Music, Business , Tehnology
 - Skills: Basic Front End, Content Writing, Team Management, Communication and Language
   
 <!---
